@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+python-multipart
+jinja2
+pyhton-dotenv
+pymongo[svr]
+gunicorn
